@@ -45,14 +45,10 @@ The project includes the following main components:
 2. Run the `Main` class to start the application.
 3. Follow the console instructions to interact with the application.
 
----
-
 ## Usage
 
 1. **Login Management**: The system supports different main.java.login types and authenticates users through the `LoginManager`.
 2. **Meeting Management**: Schedule, track, and manage main.java.meetings, allowing users to prioritise tasks based on meeting importance.
-
----
 
 ## Testing
 
@@ -63,4 +59,3 @@ The project includes test suites to ensure the accuracy of core functionalities:
 
 To run tests, you can execute the test files in your IDE or use a testing framework compatible with Java, such as JUnit.
 
----
