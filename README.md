@@ -20,15 +20,11 @@ The project includes the following main components:
 - `LoginManagerTestSuite.java`: Contains tests for the main.java.login management functionalities to ensure reliability and correctness.
 - `PriorityTestSuite.java`: Contains tests for priority-related functions within the meeting management system.
 
----
-
 ## Features
 
 - **User Login**: Supports multiple types of user logins, managed through `LoginManager`.
 - **Meeting Scheduling**: Allows scheduling of main.java.meetings with different priorities and provides functionalities to manage meeting records.
 - **Test Suites**: Includes test suites for main.java.login management and priority functionalities to ensure code reliability.
-
----
 
 ## Getting Started
 
