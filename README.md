@@ -50,7 +50,7 @@ The project includes the following main components:
 ## Usage
 
 1. **Login Management**: The system supports different main.java.login types and authenticates users through the `LoginManager`.
-2. **Meeting Management**: Schedule, track, and manage main.java.meetings, allowing users to prioritize tasks based on meeting importance.
+2. **Meeting Management**: Schedule, track, and manage main.java.meetings, allowing users to prioritise tasks based on meeting importance.
 
 ---
 
